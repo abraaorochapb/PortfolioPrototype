@@ -1,0 +1,36 @@
+.sidebar{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top:0px;
+  left: 0px;
+  bottom: 0px;
+
+}
+.linkedin{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-left: 10px;  
+}
+.github {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.WhatsApp {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
